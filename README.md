@@ -6,5 +6,8 @@ Design files and Bower package containing exports for League of Legends build ma
 ├── assets/ - assets for design development
 ├── export/ - exported files used when referencing module
 │   ├── chrome/
+│   │   ├── icons/
+│   │   ├── promo/
+│   │   ├── screenshots/
 ├── source/ - design files 
 ```
