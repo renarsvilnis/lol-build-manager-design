@@ -12,5 +12,5 @@ Design files and Bower package containing exports for League of Legends build ma
 ├── source/ - design files 
 ```
 
-### Developing
+### Publishing
 Manualy go trough each `source files and export`. For sketch files exports are defined in individual layers, artboards to automate exports. 
